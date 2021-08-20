@@ -1,4 +1,4 @@
-local p = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nivyd/ShrawuRepost/main/Shrawu.lua"))()
+local p = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nivyd/Afs/main/AFS.lua"))()
 if game.PlaceId == 6299805723 then
    loadstring((p))()
 else
